@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Ignacio Sierro",
-      "adress": "San Martin 370,
+      "adress": "San Martin 370",
       "tel": "3442487106",
       "debt" : 0,
     },
@@ -26,7 +26,7 @@
     {
       "id": 1,
       "name": "Rio Uruguay",
-      "adress": "San Martin 400,
+      "adress": "San Martin 400",
       "tel": "3442564565",
       "debt" : 0,
     },
