@@ -5,21 +5,21 @@
       "name": "Ignacio Sierro",
       "adress": "San Martin 370",
       "tel": "3442487106",
-      "debt" : 0
+      "debt": 0
     },
     {
       "id": 2,
       "name": "Juan Martin Angio",
       "adress": "Posadas 333",
       "tel": "3442486767",
-      "debt" : 2000
+      "debt": 2000
     },
      {
       "id": 3,
       "name": "Carlos Asstrada",
-      "adress": "Maipú 234",
+      "adress": "Maipu 234",
       "tel": "3442454647",
-      "debt" : 0
+      "debt": 0
     }
   ],
   "sponsors": [
@@ -28,21 +28,21 @@
       "name": "Rio Uruguay",
       "adress": "San Martin 400",
       "tel": "3442564565",
-      "debt" : 0
+      "debt": 0
     },
     {
       "id": 2,
       "name": "Santander",
       "adress": "Posadas 600",
       "tel": "3442432312",
-      "debt" : 2000
+      "debt": 2000
     },
      {
       "id": 3,
       "name": "Musimundo",
-      "adress": "Maipú 500",
+      "adress": "Maipu 500",
       "tel": "3442906754",
-      "debt" : 0
+      "debt": 0
     }
   ]
 }
